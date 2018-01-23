@@ -1,0 +1,7 @@
+14:10:46.830 INFO  user Guest visited main page at Tue Jan 23 2018 14:10:46 GMT+0200 (EET) 
+14:53:38.067 INFO  user Guest visited main page on Tue Jan 23 2018 14:53:38 GMT+0200 (EET) 
+14:53:49.832 INFO  user Guest made a purchase on Tue Jan 23 2018 14:53:49 GMT+0200 (EET) 
+15:01:44.448 INFO  user Guest requested file "demo.txt" on Tue Jan 23 2018 15:01:44 GMT+0200 (EET) 
+15:02:29.542 INFO  user Guest requested file "demo.txt" on Tue Jan 23 2018 15:02:29 GMT+0200 (EET) 
+15:02:29.544 INFO  file requested by user finished loading on Tue Jan 23 2018 15:02:29 GMT+0200 (EET) 
+15:05:17.810 INFO  user Guest made a purchase on Tue Jan 23 2018 15:05:17 GMT+0200 (EET) 
